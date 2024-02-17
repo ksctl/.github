@@ -1,3 +1,7 @@
+![featured-background](https://github.com/ksctl/.github/assets/65275144/3fcf999e-6bb3-40a8-9572-d21c2200a8ed)
+
+---
+
 ## Hi there 👋
 
 Welcome to **ksctl** - your go-to Kubernetes management tool! Our organization is dedicated to simplifying Kubernetes operations, making it accessible for developers and operators alike. Whether you're managing clusters, deploying applications, or monitoring resources, **ksctl** is here to streamline your workflow.
