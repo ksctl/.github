@@ -1,6 +1,3 @@
-![featured-background](https://github.com/ksctl/.github/assets/65275144/3fcf999e-6bb3-40a8-9572-d21c2200a8ed)
-
----
 
 ## Hi there 👋
 
